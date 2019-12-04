@@ -187,6 +187,8 @@ recall
 F1 <- (2 * precision * recall) / (precision + recall)
 F1
 
+# Agregando comentario
+
 
 
 
